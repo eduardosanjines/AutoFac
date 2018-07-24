@@ -1,0 +1,15 @@
+﻿2018-07-24 13:22:45,885 ERROR [1] AutoFacExample.ClassLog.errorLog - Start log ERROR...
+2018-07-24 13:23:37,142 ERROR [1] AutoFacExample.ClassLog.errorLog - System.DivideByZeroException: Intento de dividir por cero.
+   en AutoFacExample.Division.Div(Int32 num1, Int32 num2) en C:\Users\ETUMAYLLE\source\repos\AutoFacExample\AutoFacExample\Division.cs:línea 16
+2018-07-24 13:24:19,683 ERROR [1] AutoFacExample.ClassLog.errorLog - System.DivideByZeroException: Intento de dividir por cero.
+   en AutoFacExample.Division.Div(Int32 num1, Int32 num2) en C:\Users\ETUMAYLLE\source\repos\AutoFacExample\AutoFacExample\Division.cs:línea 16
+2018-07-24 16:02:16,374 ERROR [1] AutoFacExample.CalculadoraController.Div - System.DivideByZeroException: Intento de dividir por cero.
+   en AutoFacExample.CalculadoraController.Div(Int32 num1, Int32 num2) en C:\Users\ETUMAYLLE\source\repos\AutoFacExample\AutoFacExample\CalculadoraController.cs:línea 22
+2018-07-24 20:24:27,418 ERROR [1] AutoFacExample.CalculadoraController.Div - System.DivideByZeroException: Intento de dividir por cero.
+   en AutoFacExample.CalculadoraController.Div(Int32 num1, Int32 num2) en C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFacExample\AutoFacExample\CalculadoraController.cs:línea 22
+2018-07-24 20:24:46,024 ERROR [1] AutoFacExample.CalculadoraController.Div - System.DivideByZeroException: Intento de dividir por cero.
+   en AutoFacExample.CalculadoraController.Div(Int32 num1, Int32 num2) en C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFacExample\AutoFacExample\CalculadoraController.cs:línea 22
+2018-07-24 20:30:31,372 ERROR [1] AutoFacExample.CalculadoraController.Div - System.DivideByZeroException: Intento de dividir por cero.
+   en AutoFacExample.CalculadoraController.Div(Int32 num1, Int32 num2) en C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFacExample\AutoFacExample\CalculadoraController.cs:línea 24
+2018-07-24 20:33:26,091 ERROR [1] AutoFacExample.CalculadoraController.Div - System.DivideByZeroException: Intento de dividir por cero.
+   en AutoFacExample.CalculadoraController.Div(Int32 num1, Int32 num2) en C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFacExample\AutoFacExample\CalculadoraController.cs:línea 24
