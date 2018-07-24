@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<autofac defaultAssembly="AutoFacXml">
+<components name="0">
+  <type>AutoFacXml.BMWAutoService</type>
+  <injectProperties>true</injectProperties>
+  <instanceScope>singleinstance</instanceScope>
+</components>
+
+<components name="1">
+  <type>AutoFacXml.FordAutoService</type>
+  <injectProperties>true</injectProperties>
+  <instanceScope>singleinstance</instanceScope>
+</components>
+
+<components name="2">
+  <type>AutoFacXml.HondaAutoService</type>
+  <injectProperties>true</injectProperties>
+  <instanceScope>singleinstance</instanceScope>
+</components>
+
+</autofac>
