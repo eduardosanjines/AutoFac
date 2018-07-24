@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace AutoFacXml
 {
-    public class AutoServiceCallerImp : AutoServiceCaller
+    public class AutoServiceCallerImp : IAutoServiceCaller
     {
         public AutoServiceCallerImp() { }
 
-        private AutoService bmwAutoService;
-        private AutoService hondaAutoService;
-        private AutoService fordAutoService; 
-        public AutoServiceCallerImp(AutoService bmwAutoService, AutoService hondaAutoService, AutoService fordAutoService)
+        private IAutoService bmwAutoService;
+        private IAutoService hondaAutoService;
+        private IAutoService fordAutoService; 
+        public AutoServiceCallerImp(IAutoService bmwAutoService, IAutoService hondaAutoService, IAutoService fordAutoService)
         {
             this.bmwAutoService = bmwAutoService;
             this.hondaAutoService = hondaAutoService;

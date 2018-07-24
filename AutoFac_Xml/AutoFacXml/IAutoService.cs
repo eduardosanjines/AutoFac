@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AutoFacXml
 {
-    public interface AutoService
+    public interface IAutoService
     {
         void GetService();
 

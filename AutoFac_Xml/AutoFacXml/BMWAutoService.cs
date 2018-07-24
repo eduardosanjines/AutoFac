@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AutoFacXml
 {
-    public class BMWAutoService : AutoService
+    public class BMWAutoService : IAutoService
     {
         public void GetService()
         {

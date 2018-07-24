@@ -135,9 +135,7 @@ C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFac\obj\Debug\AutoFac.pd
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFac\bin\Debug\Autofac.Configuration.dll
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFac\bin\Debug\Autofac.Configuration.pdb
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFac\bin\Debug\Autofac.Configuration.xml
-C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\AutoFac.exe.config
-C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\AutoFac.exe
-C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\AutoFac.pdb
+C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFacXml.csproj.CoreCompileInputs.cache
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\Microsoft.Win32.Primitives.dll
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\netstandard.dll
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\System.AppContext.dll
@@ -267,8 +265,10 @@ C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\System.
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\System.Memory.xml
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\System.Numerics.Vectors.xml
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFac.exe.config
-C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFacXml.csproj.CoreCompileInputs.cache
 C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFacXml.csproj.CopyComplete
-C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFac.exe
-C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFac.pdb
+C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\AutoFacXml.exe.config
+C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\AutoFacXml.exe
+C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\bin\Debug\AutoFacXml.pdb
+C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFacXml.exe.config
+C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFacXml.exe
+C:\Users\ETUMAYLLE\source\repos\AutoFac\AutoFac_Xml\AutoFacXml\obj\Debug\AutoFacXml.pdb

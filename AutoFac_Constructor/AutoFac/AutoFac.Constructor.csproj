@@ -100,11 +100,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AutoServiceCaller.cs" />
+    <Compile Include="IAutoServiceCaller.cs" />
     <Compile Include="AutoServiceCallerImp.cs" />
     <Compile Include="FordAutoService.cs" />
     <Compile Include="HondaAutoService.cs" />
-    <Compile Include="AutoService.cs" />
+    <Compile Include="IAutoService.cs" />
     <Compile Include="BMWAutoService.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

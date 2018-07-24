@@ -25,7 +25,7 @@ namespace AutoFacXml
             {
 
             var config = new ConfigurationBuilder();
-            config.AddXmlFile("AutoFac.xml");
+            config.AddXmlFile("Autofac.xml");
 
             var module = new ConfigurationModule(config.Build());
 

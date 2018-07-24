@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace AutoFac.Constructor
 {
-    public interface AutoServiceCaller
+    public interface IAutoService
     {
-        void CallAutoService();
+        void GetService();
+
     }
 }

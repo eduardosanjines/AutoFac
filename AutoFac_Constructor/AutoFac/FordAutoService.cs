@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AutoFac.Constructor
 {
-    public class FordAutoService : AutoService
+    public class FordAutoService : IAutoService
     {
         public void GetService()
         {
